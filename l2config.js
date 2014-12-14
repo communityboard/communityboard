@@ -1,5 +1,5 @@
 {
-	"version": {
+	"client_version": {
 		"Goddess of Destruction" : "http://files.slineage.com/sLineageIIHF5Euro.rar",
 		"High Five" : "http://files.slineage.com/sLineageIIHF5Euro.rar",
 		"Freya" : "http://files.slineage.com/sLineageIIHF5Euro.rar",
